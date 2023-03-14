@@ -1,2 +1,3 @@
-FROM alamalinux 
+FROM nginx
 RUN yum install git 
+#sCMD yum install git 
